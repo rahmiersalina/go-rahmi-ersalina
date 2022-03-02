@@ -1,0 +1,3 @@
+1.pada time complexity digunakan untuk menghitung algoritma dalam hal waktu agarnantinya program dpat berjalan dengan lancar tidak lebih dari 2 detik,
+2.disini kita menentukan fungsi dominan ,terdapat beberapa jenis compelekxity seperti constant time,linear time,quadratic time ,log n,
+3.di space complexity tentang ruang penyimpanan,berapa memori yang kita butuhkan dalam 1 algoritma.dimana disini harus kontan da yng paling minimal.
