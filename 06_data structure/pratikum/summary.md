@@ -1,0 +1,3 @@
+1.pada data strukture banya sub bagian nya seperti membahs tentang arry,slice,map,function,
+2.array dan slice hampir saa namun pada arry alokasi size nya bersifat fixed sedangkan pada slice bersifat dinamic dapat berubah.contoh saat menambahkan jumlah warna pada slice capasitas  akan dikali dua sedangkan panjang hanya akan bertambah 1,
+pada map disini terdapat data key(dimana ini bersifat unik dan tidak boleh sama satu sama lain)dan value(bisa sama satu sama lain).seta ada functon dimana merupakan sekumpulan code yang dipanggil dengan nma tertentu.
