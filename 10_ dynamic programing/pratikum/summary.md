@@ -1,0 +1,3 @@
+1..dimana pada dynamic programing ,dynamic programming merupakan algoritma yng menyelesaikab problem dengan memecah menjadi problem2 yang lebih mudah dipecahkan mengutamakn fakta optimal;
+2.karakteristik nya dibagi jadi 2 : a. overlopping subproblems(ketika mencari solusi sub problem dipanggil beberapa kali), b.optimal substructure property(setiap problem harus optimal dari setiap fungsinya)
+3. dynamic programming method  terbagi jadi 2 : a. top-down with memoization (menyelesaikan masalah dari yang kecil dulu),b. button-um with tabulation (merupakan topposite dari top- down menghindari dari recursive)
