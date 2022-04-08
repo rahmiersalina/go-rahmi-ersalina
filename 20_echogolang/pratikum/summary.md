@@ -1,0 +1,3 @@
+1. third party library merupakan sebuah code yang memiliki fungsi2 tertentu ,fungsi tersebut dapat dipanggil program kita,dimana kita dapat mengakses fungsi tersebut sesuai kebutuhan ,sehingga dalam segi waktu lebih efisien.namun kekurangan nya ketika linrary diupdate maksa program kit juga harus diupdate.
+2. terdapat berbagai macam jenis library seperti cobra,echo dll
+3. pada golang kita dapat menggunakan echo,echo sendiri adalah sebuah web framework yng memiliki performasi tingigi yang berperan dalam pengembangan race api. 
