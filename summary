@@ -1,0 +1,44 @@
+# **(21) ORM and Code Structure (MVC)**
+## **Resume**
+### **3 Poin yang Dipelajari :**
+1. Apa itu ORM?
+2. Kelebihan dan kekurangan ORM
+3. Database connection dan migration
+
+**1. Apa itu ORM?**
+
+ORM (Object relational mapping) --> membantu dalam konversi data dalam bentuk objek
+
+**2. Kelebihan dan kekurangan ORM**
+
+* Kelebihan :
+  
+  a. Less repetitive query
+  
+  b. Automatically fetch data into ready to use object (tidak perlu mapping satu per satu)
+  
+  c. Simple way if you want to screening data before store it in database
+  
+  d. Some have feature cache query
+  
+* Kelemahan :
+
+  a. Add a layer in code and cost the overhead process
+  
+  b. Load un-necessary relationship data
+  
+  c. Complex raw query can be longy to write with ORM (>10 table joins)
+  
+  d. Spesific SQL function related to one vendor may not supported or not spesific function (MySQL : FORCE INDEX)
+
+**3. Database connection dan migration**
+
+* Database connection --> menggunakan library gorm dalam menghubungkannya dengan MySQL
+* Database migration --> dapat digunakan sebagai tracking dalam update suatu table atau data sehingga mengetahui waktu updatenya
+
+### **TASK**
+
+**Output**
+![image](https://user-images.githubusercontent.com/99694679/164651489-11b210e7-6f38-4c97-930b-de0fe0780b24.png)
+
+
